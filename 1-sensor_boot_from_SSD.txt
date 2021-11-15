@@ -1,5 +1,5 @@
 
-This will require that the sensor device is mostly assembled and able to turned on, booted into the raspberrian OS, has internet access, and can adequatly recognize the attached SSD drive. If the drive or any of the other above requirements are not met, then the below and remainder of all following processes will not work.
+This will require that the sensor device is mostly assembled and able to turned on, booted into the Raspberry Pi OS, has internet access, and can adequately recognize the attached SSD drive. If the drive or any of the other above requirements are not met, then the below and remainder of all following processes will not work.
 
 sudo apt update
 sudo apt full-upgrade
